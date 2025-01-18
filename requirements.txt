@@ -7,3 +7,9 @@ python-dotenv
 pyppeteer
 pypdf
 uuid
+streamlit
+langchain
+langchain-chroma
+langchain-groq
+chromadb
+models  # Pastikan pustaka ini tersedia di PyPI atau repositori khusus
